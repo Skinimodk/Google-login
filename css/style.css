@@ -6,6 +6,7 @@
 
 body {
   background-color: #1e1f20;
+  font-family: sans-serif;
 }
 h1{
   color: #e3e3e3;
@@ -66,23 +67,43 @@ input[type="text"]{
   height: 60%;
 }
 #register{
-  height: 50%;
+  height: 30%;
   width: 100%;
   justify-content: center; /* centers horizontally */
   align-items: center;     /* centers vertically */
 }
-#login, #registarcija{
-  height: 50%;
+#login{
+  height: 30%;
   width: 100%;
   display: flex;
+  background-color: #a8czfa;
+  color: #a8czfa;
 }
 #centering{
   align-items: center;
   justify-content: center;
-  
+  display: flex;
+  height: 100%;
+  width: 100%;
 }
 #registracija{
+  height: 40%;
+  width: 20%;
+  background-color: #a8c7fa;
+  border-radius: 6px;
+  border: 0px;
+  font-family: sans-serif;
+}
+
+#prijava{
+  height: 40%;
+  border: 0px;
+  width: 20%;
+  background-color: #a8c7fa;
   margin: auto;
+  text-align: center;
+  font-family: sans-serif;
+  border-radius: 6px;
 }
 
 
