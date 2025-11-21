@@ -158,6 +158,9 @@ input[type="text"]{
   bottom: 40px;
   right: 40px;
 }
+#create_account:hover{
+  cursor: pointer;
+}
 #next_button{
   cursor: pointer;
   font-weight: bold;
