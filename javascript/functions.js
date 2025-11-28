@@ -9,7 +9,7 @@ function piskot(event){
         icon: "info",
         iconColor: "#185abc",
         title: "Cookie",
-        text: "This site was made by Dominik Kaluza",
+        text: "This site was made by Dominik Kaluža",
         confirmButtonColor: "#185abc",
         })
         return;
@@ -160,4 +160,5 @@ function piskot(event){
         form.submit(); // submita ko user klikne "ok"
         window.location.href = 'gender_and_birthday.html';
       });
+
     }
