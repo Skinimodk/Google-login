@@ -66,6 +66,23 @@ Google-login/
 
 <hr>
 
+<h2>🔑 Testna prijava</h2>
+
+<p>
+  Za preizkus sistema se lahko prijavite z naslednjimi podatki:
+</p>
+
+<ul>
+  <li><strong>Uporabniško ime:</strong> a@a.a</li>
+  <li><strong>Geslo:</strong> 1234567</li>
+</ul>
+
+<p>
+  Po prijavi boste preusmerjeni na začetno stran aplikacije. To omogoča enostavno testiranje funkcionalnosti prijave brez potrebe po ustvarjanju novega uporabniškega računa.
+</p>
+
+<hr>
+
 <h2>📌 Začetna stran</h2>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fdd48ed7-6a64-4a41-90b8-c1df2381ec8d" width="600">
